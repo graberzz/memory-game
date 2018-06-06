@@ -1,1 +1,1 @@
-## create-react-app with CSS Modules, SASS, Redux and Router
+## React Memory Game. [DEMO](https://graberzz.github.io/memory-game/)
