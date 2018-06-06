@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600,700&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    background: rgb(27, 105, 45);
+    
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #fff;
+    user-select: none;
+}

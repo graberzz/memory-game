@@ -1,0 +1,20 @@
+.btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+
+    background: #fff;
+    outline: none;
+    opacity: 0.85;
+    
+    color: #1C7430;
+    letter-spacing: 0;
+    font-size: 16px;
+    font-weight: 700;
+
+    cursor: pointer;
+
+    &:hover {
+        opacity: .5;
+    }
+}
